@@ -6,8 +6,14 @@ Welcome to my articles repository. Here I collect notes, technical write-ups, gu
 
 - [📚 Knowledge Hub](#-knowledge-hub)
   - [🧭 Contents](#-contents)
+  - [:star2: Github Articles](#star2-github-articles)
   - [🌍 My External Articles](#-my-external-articles)
   - [:hammer: My Repos](#hammer-my-repos)
+
+## :star2: Github Articles
+- Result Pattern
+  - 🔗 [EN Documentation (Explaining in English)](https://github.com/kjosaayala/ResultVsExceptionsDemo/blob/main/result-vs-exceptions-article-en.md)
+  - 🔗 [ES Documentation (Explaining in Spanish)](https://github.com/kjosaayala/ResultVsExceptionsDemo/blob/main/result-vs-exceptions-article-es.md)
 
 ## 🌍 My External Articles
 
